@@ -1,0 +1,21 @@
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe.config
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.AssemblyReference.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticao\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe.config
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.AssemblyReference.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\Trabalho Programação\N1N2ComandoRepeticaoL3-Q5\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe.config
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\bin\Debug\N1N2ComandoRepeticao.pdb
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.AssemblyReference.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.exe
+C:\Users\PEDRO\OneDrive\Área de Trabalho\NOTAS\N1N2ComandoRepeticao\obj\Debug\N1N2ComandoRepeticao.pdb
